@@ -1,6 +1,6 @@
 # iammobarok
 
-> Learn code everynight and do shit sometimes
+> Learn code everynight and do shit sometime
 
 * Software developer
 * Open source enthusiast
