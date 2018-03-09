@@ -8,4 +8,4 @@
 
 [GitHub](https://github.com/iammobarok)
 [Projects](projects.md)
-[Playground](https://iammobarok.github.io/code-playground)
+[Playground](https://iammobarok.github.io/code-playground/)
