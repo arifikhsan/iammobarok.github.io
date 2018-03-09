@@ -1,4 +1,4 @@
-* [About](README.md)
+* [About](about.md)
 
 * [Contact](contact.md)
 
