@@ -1,4 +1,4 @@
-![color](#f0f0f0)
+![color](_media/bg.jpg)
 
 # Alfan Mubarok <small>3.5</small>
 
