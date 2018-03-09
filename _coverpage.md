@@ -1,10 +1,10 @@
-# Alfan Mubarok
+# iammobarok
 
-> Find some problems and doing shit
+> Learn code everynight and do shit sometimes
 
-* Software Developer
-* Open Source Enthusiast
-* Coffee All Night Long
+* Software developer
+* Open source enthusiast
+* Coffee all night long not sleep at 9 pm
 
 [GitHub](https://github.com/iammobarok)
 [Playground](https://github.com/iammobarok/code-playground)
