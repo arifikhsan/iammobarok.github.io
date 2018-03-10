@@ -1,5 +1,1 @@
-- Menu
-  - [Home](/#/?id=alfan-mubarok)
-  - [About](README.md)
-  - [Contact](contact.md)
-  - [Projects](projects.md)
+- [Menu](https://iammobarok.github.io)
