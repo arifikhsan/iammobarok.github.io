@@ -1,1 +1,1 @@
-- [Menu](https://iammobarok.github.io)
+- [Home](/#/?id=iammobarok)
